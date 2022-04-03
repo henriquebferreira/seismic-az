@@ -3,3 +3,4 @@
 ingestor
 db_backup.sql
 __pycache__
+db
