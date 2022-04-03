@@ -1,0 +1,5 @@
+.vscode
+.env
+ingestor
+db_backup.sql
+__pycache__

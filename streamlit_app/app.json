@@ -1,0 +1,9 @@
+{
+    "name": "Azorean Seismic Data",
+    "version": "0.1.0",
+    "icon": "",
+    "description": "A Streamlit web-app that provides visualization of Azorean Seismic data.",
+    "author": "Henrique Ferreira",
+    "email": "henriquebotelhoferreira@gmail.com",
+    "layout": "wide"
+}

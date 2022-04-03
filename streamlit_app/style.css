@@ -1,0 +1,35 @@
+#MainMenu {
+  visibility: hidden;
+}
+footer {
+  visibility: hidden;
+}
+
+.stSlider [role="slider"]:first-of-type .StyledThumbValue {
+  top:22px; 
+  left:0px
+}
+
+[data-testid="stTickBarMin"] {
+  visibility:hidden
+}
+
+[data-testid="stTickBarMax"] {
+  visibility:hidden
+}
+
+.stDownloadButton {
+  display:flex;
+  justify-content: center;
+}
+
+.data-source-container {
+  display:flex;
+  justify-content: space-around;
+}
+
+.data-source-img {
+  height:128px;
+  border-radius: 8px;
+  margin-bottom:16px;
+}
